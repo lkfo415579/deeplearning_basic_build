@@ -1,0 +1,7 @@
+弄了一整晚,把muti-classification mlp變成
+Linear regresion mlp.
+
+NOTES:
+使用了800*800,50%*50% dropout hidden layers
+epoch 到達12的時候,trainning loss 達到了164(minimum)
+總結還是不行

@@ -1,0 +1,6154 @@
+Loading data...
+total element of one line : 10
+15 : 246539
+[[[ -1.73502998e+01   2.61422005e+01  -9.46210003e+00  -5.22355957e+01
+    -2.52779007e+01  -3.40043983e+01   6.78630018e+00  -1.00932007e+01
+    -2.81464005e+01   2.07374001e+01]]
+
+ [[  2.02898998e+01   3.24559975e+01  -2.80369997e+00  -3.60922012e+01
+    -3.09913006e+01  -2.10161991e+01   1.65326004e+01   9.28390026e+00
+    -1.94732990e+01   2.02831993e+01]]
+
+ [[ -5.33330011e+00  -1.20479002e+01   7.41679955e+00  -3.03068008e+01
+    -2.49246998e+01  -1.26510000e+00   1.97730005e+00  -6.38400030e+00
+    -1.96348991e+01   2.07800007e+00]]
+
+ [[  8.75209999e+00  -1.87119007e+01   2.55159998e+00  -3.44880028e+01
+    -3.22706032e+01  -1.79350007e+00   6.80510044e+00   1.17374001e+01
+     9.00100040e+00  -1.52630005e+01]]
+
+ [[ -3.59780002e+00  -2.29504013e+01   4.87279987e+00  -3.92211990e+01
+    -3.52138977e+01   2.06899986e-01  -1.15820003e+00   4.43669987e+00
+     1.30593004e+01   2.67159986e+00]]
+
+ [[ -1.32631998e+01  -6.12790012e+00  -1.65529990e+00  -2.35254002e+01
+    -3.32464981e+01  -2.64150000e+00   4.12620020e+00   9.04029942e+00
+     2.95299977e-01  -1.65660012e+00]]
+
+ [[  4.19140005e+00  -2.23288002e+01   4.69320011e+00  -2.22992001e+01
+    -4.01401024e+01  -1.41850007e+00   5.54290009e+00   1.76135998e+01
+     8.31879997e+00  -6.26360035e+00]]
+
+ [[ -1.56455994e+01   3.85369992e+00   6.70429993e+00  -2.41558990e+01
+    -2.76811008e+01  -9.41810036e+00   3.91900015e+00   1.89059997e+00
+    -2.20553989e+01   8.83209991e+00]]
+
+ [[ -8.54180050e+00   1.52205009e+01   6.05139971e+00  -2.38395004e+01
+    -2.06319008e+01  -9.25780010e+00  -4.96999994e-02   1.23902998e+01
+    -2.39743996e+01   5.16330004e+00]]
+
+ [[ -2.41954002e+01  -1.96679997e+00   8.85000005e-02  -3.24043999e+01
+    -2.61799011e+01  -7.99529982e+00  -3.65279984e+00   3.37529993e+00
+    -1.19470005e+01   8.46000016e-02]]]
+15 dtype: float32
+Label : 246539
+[15 14 17 16 16 17 16 15 16 16]
+total element of one line : 10
+15 : 10000
+[[[ -3.97390008e+00   1.88700008e+01   7.97370005e+00   1.42556000e+01
+    -8.60370064e+00  -2.16093998e+01  -4.16047020e+01   2.19283009e+01
+     1.21808004e+01   3.01271000e+01]]
+
+ [[ -6.62719965e+00   1.49748001e+01   1.66892014e+01   8.71230030e+00
+    -1.11382999e+01  -2.27938995e+01  -4.84162979e+01   3.09323006e+01
+     1.72565994e+01   3.33461990e+01]]
+
+ [[  2.56739998e+00   2.05078011e+01   1.04202003e+01   2.01026001e+01
+    -1.33400008e-01  -2.10590005e+00  -3.39449997e+01   1.09787998e+01
+     1.45756006e+01   3.73983994e+01]]
+
+ [[ -3.34960008e+00   3.58249998e+00   1.69258995e+01   6.49420023e+00
+    -6.46829987e+00  -1.42869997e+01  -3.95642014e+01   2.00692997e+01
+     2.15832996e+01   2.37088985e+01]]
+
+ [[  1.54670000e+00   1.55380993e+01   4.18919992e+00   2.13667011e+01
+    -8.09860039e+00  -7.20560026e+00  -3.13596001e+01   1.40747995e+01
+     1.42112999e+01   2.98016014e+01]]
+
+ [[  1.85718994e+01   1.00541000e+01   1.16751003e+01   1.32643003e+01
+    -2.71249986e+00   5.59800005e+00  -3.46033974e+01   1.22833996e+01
+     2.27911987e+01   3.93631020e+01]]
+
+ [[  6.68630028e+00   6.71970034e+00   1.17187004e+01   1.21072998e+01
+    -9.85190010e+00   3.35999988e-02  -2.80736008e+01   7.64269972e+00
+     2.04577999e+01   3.39739990e+01]]
+
+ [[ -4.49879980e+00   2.94969988e+00   1.64989986e+01   4.81069994e+00
+    -1.06129999e+01  -2.46749992e+01  -4.69174995e+01   2.32314014e+01
+     2.07712994e+01   3.98466988e+01]]
+
+ [[ -5.08189964e+00   1.78766994e+01   2.99140015e+01   8.65359974e+00
+    -2.54600000e+00  -3.35065002e+01  -4.95881004e+01   4.40412979e+01
+     1.27494011e+01   3.77801018e+01]]
+
+ [[ -2.34105015e+01   2.03116989e+01   3.69706001e+01   8.22380066e+00
+     1.07480001e+00  -4.41659012e+01  -3.24861984e+01   2.12143002e+01
+     1.60719013e+01   2.75427017e+01]]]
+15 dtype: float32
+Used random_label for test_set
+input : float32' 
+Building model and compiling functions...
+Starting training...
+Epoch 1 of 15 took 8.089s
+  training loss:		4.037337
+  validation loss:		3.975500
+  validation accuracy:		3.46 %
+Epoch 2 of 15 took 8.157s
+  training loss:		3.846181
+  validation loss:		3.960132
+  validation accuracy:		3.75 %
+Epoch 3 of 15 took 8.108s
+  training loss:		3.826454
+  validation loss:		3.958151
+  validation accuracy:		2.69 %
+Epoch 4 of 15 took 8.020s
+  training loss:		3.813151
+  validation loss:		3.944863
+  validation accuracy:		3.17 %
+Epoch 5 of 15 took 8.031s
+  training loss:		3.802593
+  validation loss:		3.945399
+  validation accuracy:		2.41 %
+Epoch 6 of 15 took 8.016s
+  training loss:		3.794866
+  validation loss:		3.935247
+  validation accuracy:		3.47 %
+Epoch 7 of 15 took 8.081s
+  training loss:		3.787452
+  validation loss:		3.933774
+  validation accuracy:		2.47 %
+Epoch 8 of 15 took 7.992s
+  training loss:		3.780155
+  validation loss:		3.933371
+  validation accuracy:		4.07 %
+Epoch 9 of 15 took 7.969s
+  training loss:		3.775520
+  validation loss:		3.933842
+  validation accuracy:		3.37 %
+Epoch 10 of 15 took 7.896s
+  training loss:		3.770381
+  validation loss:		3.927758
+  validation accuracy:		3.71 %
+Epoch 11 of 15 took 7.982s
+  training loss:		3.766292
+  validation loss:		3.932553
+  validation accuracy:		3.75 %
+Epoch 12 of 15 took 7.859s
+  training loss:		3.761571
+  validation loss:		3.929980
+  validation accuracy:		2.95 %
+Epoch 13 of 15 took 7.739s
+  training loss:		3.757796
+  validation loss:		3.930956
+  validation accuracy:		2.51 %
+Epoch 14 of 15 took 7.725s
+  training loss:		3.752295
+  validation loss:		3.926207
+  validation accuracy:		2.70 %
+Epoch 15 of 15 took 7.870s
+  training loss:		3.747885
+  validation loss:		3.927027
+  validation accuracy:		2.94 %
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+input_test
+target_test
+10
+display prediction scores
+10
+starting writing sentence_blue into file
+Final results:
+  test loss:			6.070366
+  test accuracy:		0.98 %
